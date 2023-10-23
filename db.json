@@ -1,0 +1,105 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "username": "acedola@gmail.com",
+      "password": "321654"
+    },
+    {
+      "email": "acedola@gmail.com",
+      "password": "321654",
+      "id": 2
+    },
+    {
+      "email": "acedola@gmail.com",
+      "password": "321654",
+      "id": 3
+    }
+  ],
+  "userData": {
+    "errorcode": 0,
+    "errormsg": "",
+    "userid": "acedola@gmail.com",
+    "ipassword": "321654",
+    "nombre": "Alejandro Cédola",
+    "iitoken": "KNPMUMQYK-SLJQF-FASCQ-QOIDGLRLKHFBV",
+    "itoken": "qwer",
+    "IP": "181.2.162.100",
+    "entidades": [
+      {
+        "entidad": "CASE",
+        "nombre": "Colegio de Arquitectos de Santiago del Estero"
+      },
+      {
+        "entidad": "CAPBA",
+        "nombre": "Colegio de Arquitectos de la Provincia de Buenos Aires"
+      },
+      {
+        "entidad": "CAMZA",
+        "nombre": "Colegio de Arquitectos de la Provincia de Mendoza"
+      },
+      {
+        "entidad": "CARN",
+        "nombre": "Colegio de Arquitectos de la Provincia de Río Negro"
+      },
+      {
+        "entidad": "CAT",
+        "nombre": "Colegio de Arquitectos de la Provincia de Tucumán"
+      },
+      {
+        "entidad": "CACH",
+        "nombre": "Colegio de Arquitectos de la Provincia del Chubut"
+      },
+      {
+        "entidad": "CANQN",
+        "nombre": "Colegio de Arquitectos del Neuquén"
+      },
+      {
+        "entidad": "CPAIA",
+        "nombre": "Colegio de Arquitectos, Ingenieros y Agrimensores de Santa Cruz"
+      },
+      {
+        "entidad": "CBN",
+        "nombre": "Colegio de Bioquímicos del Neuquén"
+      },
+      {
+        "entidad": "CINQN",
+        "nombre": "Colegio de Ingenieros del Neuquén"
+      },
+      {
+        "entidad": "CPI",
+        "nombre": "Colegio de Ingenieros y Técnicos Industriales del Chubut"
+      },
+      {
+        "entidad": "CPIAYA",
+        "nombre": "Consejo Profesional de Ingeniería, Arquitectura y Agrimensura de Corrientes"
+      },
+      {
+        "entidad": "CPAIM",
+        "nombre": "Consejo de Ingenieros y Técnicos de Misiones"
+      },
+      {
+        "entidad": "FBN",
+        "nombre": "Federación Bioquímica del Neuquén"
+      }
+    ]
+  },
+  "tareas": [
+    {
+      "id": 1,
+      "tarea": "store procedure1"
+    },
+    {
+      "id": 2,
+      "tarea": "store procedure2"
+    },
+    {
+      "id": 3,
+      "tarea": "store procedure3"
+    },
+    {
+      "id": 4,
+      "tarea": "store procedure4"
+    }
+  ]
+}
